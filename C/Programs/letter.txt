@@ -1,0 +1,43 @@
+This_is_the_Backend_Receipt_File_for_receipt_gen.c
+Dear_pran,_Thanks_for_shopping_with_us._Visit_again_soon,_Hail_Pranshu!
+Outlet_:_Noida Outlet
+Item_1_:_Bat
+Item_2_:_Vest
+Item_3_:_Ball
+Item_4_:_Supporter
+Dear_Pran,_Thanks_for_shopping_with_us._Visit_again_soon,_Hail_Pranshu!
+Outlet_:_Gurugram Outlet
+Item_1_:_Vest
+Item_2_:_Bat
+Item_3_:_Ball
+Item_4_:_Bat
+Item_5_:_Vest
+Dear_Pran,_Thanks_for_shopping_with_us._Visit_again_soon,_Hail_Pranshu!
+Outlet_:_Gurugram Outlet
+Item_1_:_Vest
+Item_2_:_Bat
+Item_3_:_Ball
+Item_4_:_Vest
+Item_5_:_Supporter
+Dear_Pran,_Thanks_for_shopping_with_us._Visit_again_soon,_Hail_Pranshu!
+Outlet_:_Gurugram Outlet
+Item_1_:_BatDear_Pran,_Thanks_for_shopping_with_us._Visit_again_soon,_Hail_Pranshu!
+Outlet_:_Noida Outlet
+Item_1_:_Vest
+Item_2_:_Supporter
+Item_3_:_Ball
+Item_4_:_Bat
+Item_5_:_Vest
+Item_6_:_Ball
+Item_7_:_Shorts
+Item_8_:_Bat
+Item_9_:_Shorts
+Dear_Pran,_Thanks_for_shopping_with_us._Visit_again_soon,_Hail_Pranshu!
+Outlet_:_Noida Outlet
+Item_1_:_Vest
+Item_2_:_Ball
+Item_3_:_Shorts
+Item_4_:_Bat
+Item_5_:_Bat
+Item_6_:_Shorts
+Item_7_:_Bat
